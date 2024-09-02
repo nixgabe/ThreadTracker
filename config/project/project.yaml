@@ -1,0 +1,22 @@
+dateModified: 1725268536
+email:
+  fromEmail: nixgabriel92@gmail.com
+  fromName: Threadtracker
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    28025fdd-f574-4921-a188-249367986682: Threadtracker # Threadtracker
+    a98b0006-aebb-4c13-947f-f876a8968e0a: Threadtracker # Threadtracker
+system:
+  edition: solo
+  live: true
+  name: Threadtracker
+  schemaVersion: 5.3.0.2
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
